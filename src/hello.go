@@ -1,6 +1,8 @@
 package main
+
 import "fmt"
 
 func main() {
-    fmt.Printf("hello, world\n")
+	var name string = "Xavier"
+	fmt.Printf(name)
 }
